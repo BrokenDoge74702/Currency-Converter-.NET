@@ -1,0 +1,36 @@
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe.config
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\Currency Converter.pdb
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csproj.AssemblyReference.cache
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency_Converter.Form1.resources
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csproj.GenerateResource.cache
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csproj.CopyComplete
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency Converter.exe
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency Converter.pdb
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\RestSharp.dll
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\System.Buffers.dll
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\System.Memory.dll
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\System.Text.Json.dll
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\System.ValueTuple.dll
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\RestSharp.xml
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\System.Buffers.xml
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\System.Memory.xml
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\System.Text.Json.xml
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jimmy\source\repos\Currency Converter\Currency Converter\bin\Debug\System.ValueTuple.xml
